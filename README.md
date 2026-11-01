@@ -24,3 +24,7 @@ Research by Joshua McClain (Kickazzman).
 Research partner: cobrajet (GitHub: cobrajet302gt).
 License: MIT — see LICENSE. Free use for anyone, with the copyright and
 permission notice kept. Provenance: see RECORD.md and REDACTION-LOG.md.
+
+## Video explainer (2026-11-01)
+
+- eit-lane-explainer-v2.mp4 — 114-second video walkthrough of the lane, narrated with the Piper en_US-glados-medium voice. Deterministic visuals drawn from the solver record; no model in the loop. Rendered by render_eit_video_v2.py from manifest_v2.json (scene list and narration texts). Caption layout fixed vs v1; v1 (lessac narration, 105 s) remains local only.

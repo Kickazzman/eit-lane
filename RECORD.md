@@ -22,3 +22,6 @@ non-identifying; see REDACTION-LOG.md.
 
 Delivery date for every file in this repo: 2026-11-01.
 Published 2026-11-01 by Joshua McClain (Kickazzman) under the MIT license.
+| `eit-lane-explainer-v2.mp4` | `/home/joshua/eit-lane-video/eit-lane-explainer-v2.mp4` | 2026-11-01T17:19:42Z | `6ee8dda42b241957b1990d5370865131539715237ae2243fa167493af395107e` | `6ee8dda42b241957b1990d5370865131539715237ae2243fa167493af395107e` | 3095482 | 2026-11-01 | 2026-11-01 |
+| `render_eit_video_v2.py` | `/home/joshua/eit-lane-video/render_eit_video_v2.py` | 2026-11-01T17:18:48Z | `40c636213a5cb138f7a407c883a2ceb4883d66c813022f252a50c6c009e1f894` | `40c636213a5cb138f7a407c883a2ceb4883d66c813022f252a50c6c009e1f894` | 19616 | 2026-11-01 | 2026-11-01 |
+| `manifest_v2.json` | `/home/joshua/eit-lane-video/manifest_v2.json` | 2026-11-01T17:19:02Z | `6e490b93beb9de6467c3a59b6676cf215be995554d4f0e30767446dc13e90c56` | `6e490b93beb9de6467c3a59b6676cf215be995554d4f0e30767446dc13e90c56` | 3376 | 2026-11-01 | 2026-11-01 |
